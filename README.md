@@ -5,6 +5,8 @@ Este repositório foi criado para a execução de um projeto da disciplina de Mo
 
 This repository was created to execute a project of the discipline of Modeling 2, It is a java application for controlling a recreation club member. 2016/01.
 
+Contact for help: dionmaicon@outlook.com
+
 ### What is this repository for? ###
 
 * Quick summary
